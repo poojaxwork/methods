@@ -1,0 +1,6 @@
+enum SaloonBranch
+{
+	BTM,JAYNAGAR,KORMANGAL,BANERGUTA;
+	
+	
+}
