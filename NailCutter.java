@@ -22,6 +22,7 @@ System.out.println("invoked cutting");
   void nailart()
 
 {  
+System.out.println("invoked nailart:");
 System.out.println(brand[2]);
 		System.out.println(price);
 		System.out.println(length);
